@@ -1,13 +1,13 @@
-.Foot {
-    background-color: #BFACE0;
-    
-}
-.jumbotron {
-    padding: 70px 150px 130px 70px;
-    margin:0px auto;
-    background: #9575CD ;
-    color:floralwhite;
-}
+.footer {
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px 0px; }
+
+        .jumbotron {
+            margin: 0px auto;
+            padding: 70px 30px;
+            background: #9575CD;
+            color: floralwhite; }
 
 .history {
     text-align: left;
@@ -41,6 +41,7 @@
 body{
     padding:50px 0px 0px 0px;
     z-index:0;
+    min-width:992px!important
 }
 
 .navbar-dark {
@@ -51,3 +52,18 @@ body{
     background: #3B5998;
     color: white;
   }
+  .alberto {
+    height: 110px;
+    width: 110px;
+  }
+  hr {
+    margin-top:1rem;
+    margin-bottom:1rem;
+    border:0;
+    border-top:1px solid rgba(0,0,0,.1)
+}
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px; }
