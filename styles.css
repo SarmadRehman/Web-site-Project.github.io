@@ -1,3 +1,6 @@
+
+
+
 .footer {
     background-color: #D1C4E9;
     margin: 0px auto;
@@ -54,14 +57,20 @@ body{
   }
   .alberto {
     height: 110px;
-    width: 110px;
+    width: 210px;
   }
+  .alberto4 {
+  height: 110px;
+  width: 110px;
+  }
+
   hr {
     margin-top:1rem;
     margin-bottom:1rem;
     border:0;
     border-top:1px solid rgba(0,0,0,.1)
 }
+
 .row-content {
     margin: 0px auto;
     padding: 50px 0px;
@@ -74,4 +83,17 @@ body{
         border-bottom: 1px solid #ddd;
         padding: 10px;
     }
-   
+    .carousel {
+        background:#512DA8;
+    }
+    
+    .carousel-item {
+      height: 300px;
+    }
+    
+    .carousel-item img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-height: 300px;
+    }
