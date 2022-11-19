@@ -1,6 +1,4 @@
 
-
-
 .footer {
     background-color: #D1C4E9;
     margin: 0px auto;
@@ -102,4 +100,7 @@ body{
         position: absolute;
         bottom: 0px;
         z-index: 1;
+    }
+    .carousel-caption {
+        margin-left: 150px;
     }
