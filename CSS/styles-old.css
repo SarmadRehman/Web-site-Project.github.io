@@ -1,0 +1,106 @@
+
+.footer {
+    background-color: #D1C4E9;
+    margin: 0px auto;
+    padding: 20px 0px; }
+
+        .jumbotron {
+            margin: 0px auto;
+            padding: 70px 30px;
+            background: #9575CD;
+            color: floralwhite; }
+
+.history {
+    text-align: left;
+    padding-left: 80px ;
+    padding-bottom: 60px ;
+    padding-right: 60px ;
+    /* padding-top: 40px;
+    
+    padding-bottom: 50px; */
+    border-left: 60px;
+}
+.corporate {
+    
+    text-align: left;
+    padding-left: 80px ;
+    padding-bottom: 60px ;
+    padding-right: 60px ;
+    /* padding-top: 40px;
+    
+    padding-bottom: 50px; */
+    border-left: 60px;
+}
+
+.Links-Add {
+    padding : 25px 0px 0px 60px  ;
+}
+/**/
+.Links{
+    padding-right: 60px;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+    min-width:992px!important
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .alberto {
+    height: 110px;
+    width: 210px;
+  }
+  .alberto4 {
+  height: 110px;
+  width: 110px;
+  }
+
+  hr {
+    margin-top:1rem;
+    margin-bottom:1rem;
+    border:0;
+    border-top:1px solid rgba(0,0,0,.1)
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px; }
+    
+    .tab-content {
+        border-left: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        padding: 10px;
+    }
+    .carousel {
+        background:#512DA8;
+    }
+    
+    .carousel-item {
+      height: 300px;
+    }
+    
+    .carousel-item img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-height: 300px;
+    }
+    #carouselButton {
+        right:0px;
+        position: absolute;
+        bottom: 0px;
+        z-index: 1;
+    }
+    .carousel-caption {
+        margin-left: 150px;
+    }
